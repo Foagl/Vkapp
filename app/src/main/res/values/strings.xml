@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Vkapp</string>
+    <integer name="com_vk_sdk_AppId">5944443</integer>
+</resources>
